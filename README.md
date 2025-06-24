@@ -1,4 +1,4 @@
-# Hi there!
+# Üdvözlet! / Hi there! / ようこそ！
 
 About myself:
 - I'm 17.
