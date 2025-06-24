@@ -1,4 +1,4 @@
-<img src="media/udvozlet-nh.gif" align="right">
+<img src="media/udvozlet-nh.gif" align="center" style="margin-left: 20px">
 
 About myself:
 - I'm 17.
