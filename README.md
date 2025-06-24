@@ -6,4 +6,4 @@ About myself:
 - Currently studying as a software developer.
 
 ## Japanese learning meter:
-█████████░️░️░️░️░️░️░️░️░️░️░️
+Ø █████████░️░️░️░️░️░️░️░️░️░️░️ N5
