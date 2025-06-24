@@ -1,5 +1,4 @@
-<center><img src="media/udvozlet-nh.gif"></center>
-# Üdvözlet! / Hi there! / ようこそ！
+<img src="media/udvozlet-nh.gif" align="center">
 
 About myself:
 - I'm 17.
