@@ -1,4 +1,4 @@
-<img src="media/udvozlet.gif">
+<center><img src="media/udvozlet-nh.gif"></center>
 # Üdvözlet! / Hi there! / ようこそ！
 
 About myself:
