@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="css/style.css"></link>
 <p align="center"><img src="media/udvozlet-nh.gif"></p>
 
 ## $${\color{lightblue}About \space myself:}$$
