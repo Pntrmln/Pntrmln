@@ -1,7 +1,7 @@
 <p align="center"><img src="media/udvozlet-nh.gif"></p>
 
 ## $${\color{lightblue}About \space myself:}$$
-- $${\color{lightblue} I'm \space 17.}$$
+- I'm 17.
 - I'm Hungarian.
 - Currently studying as a software developer.
 
