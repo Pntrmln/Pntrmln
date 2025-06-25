@@ -5,5 +5,5 @@
 - I'm Hungarian.
 - Currently studying as a software developer.
 
-## Japanese learning meter:
+## $${\color{lightblue}Japanese \space learning \space meter}$$
 Ø ███████▓░️░️░️░️░️░️░️░️ N5
