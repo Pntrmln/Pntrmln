@@ -1,9 +1,10 @@
+<link rel="stylesheet" href="css/style.css"></link>
 <p align="center"><img src="media/udvozlet-nh.gif"></p>
 
 ## $${\color{lightblue}About \space myself:}$$
 - <p>I'm 17.</p>
-- I'm Hungarian.
-- Currently studying as a software developer.
+- <p>I'm Hungarian.</p>
+- <p>Currently studying as a software developer.</p>
 
 ## $${\color{lightblue}Japanese \space learning \space meter:}$$
 Ø ███████▓░️░️░️░️░️░️░️░️ N5
