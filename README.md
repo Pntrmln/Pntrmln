@@ -8,4 +8,4 @@
 ## $${\color{lightblue}Japanese \space learning \space meter:}$$
 Ø ███████▓░️░️░️░️░️░️░️░️ N5
 
-## $${\color{lightblue}More \space information: www.pntrmln.xyz }$$
+## $${\color{lightblue}More \space information: }$$ www.pntrmln.xyz
