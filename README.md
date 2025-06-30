@@ -1,4 +1,4 @@
-<p align="center"><img src="media/udvozlet-nh.gif"></p>
+<div align="center"><img src="media/udvozlet-nh.gif"></div>
 
 ## $${\color{lightblue}About \space myself:}$$
 - <p style="font-family: 'Bahnschrift'">I'm 17.</p>
@@ -8,4 +8,5 @@
 ## $${\color{lightblue}Japanese \space learning \space meter:}$$
 Ø ███████▓░️░️░️░️░️░️░️░️ N5
 
-## www.pntrmln.xyz
+## $${\color{lightblue}More \space information:}$$
+www.pntrmln.xyz
