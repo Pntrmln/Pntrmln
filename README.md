@@ -6,7 +6,7 @@
 - <p>Currently studying as a software developer.</p>
 
 ## $${\color{lightblue}Japanese \space learning \space meter:}$$
-Ø ███████▓░️░️░️░️░️░️░️░️ N5
+Ø ████████▓░️░️░️░️░️░️░️ N5
 
 ## $${\color{lightblue}More \space information:}$$
 www.pntrmln.xyz
