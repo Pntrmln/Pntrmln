@@ -9,4 +9,4 @@
 Ø ████████▓░️░️░️░️░️░️░️ N5
 
 ## $${\color{lightblue}More \space information:}$$
-www.pntrmln.xyz
+www.pntrmln.hu
