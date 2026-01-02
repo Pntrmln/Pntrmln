@@ -1,7 +1,7 @@
 <div align="center"><img src="media/udvozlet-nh.gif"></div>
 
 ## $${\color{lightblue}About \space myself:}$$
-- <p>I'm 17.</p>
+- <p>I'm 18.</p>
 - <p>I'm Hungarian.</p>
 - <p>Currently studying as a software developer.</p>
 
